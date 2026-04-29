@@ -19,7 +19,7 @@ I have experience building projects with various programming languages and I am 
     *   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
     *   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
     *   ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-    *   
+      
 
 ### 📊 GitHub Stats
 ![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HasanTalha03&show_icons=true&theme=dark&hide_border=true)

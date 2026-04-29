@@ -19,4 +19,4 @@ I have experience building projects with various programming languages and I am 
 ![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HasanTalha03&show_icons=true&theme=dark&hide_border=true)
 
 ---
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/HasanTalhaArslan)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/hasan-talha-arslan)
